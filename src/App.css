@@ -1,0 +1,32 @@
+body {
+  margin: 2rem;
+}
+
+button {
+  margin: 1rem;
+}
+
+.create-button {
+  float: right
+}
+
+h5 {
+  margin: 0.5rem;
+}
+
+Form {
+  margin: 2rem;
+}
+
+.form-control {
+  width: 50%;
+}
+
+.form-control-file {
+  margin: 0.5rem;
+}
+
+.camp:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
